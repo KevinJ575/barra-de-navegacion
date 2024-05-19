@@ -137,7 +137,7 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: var(--body-color);
+  background-color: rgba(255, 255, 255, 0.8);
   box-shadow: 0 2px 16px hsla(230, 75%, 32%, .15);
   z-index: var(--z-fixed);
 }
